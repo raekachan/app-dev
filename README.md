@@ -8,5 +8,5 @@ My first repository
 `code`
 ---
 [Journey to the Center of the Earth](https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth_(2008_theatrical_film))
-[10 Things I Hate About You]([https://www.example.com](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You))
+[10 Things I Hate About You]((https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)
 [Flipped](https://en.wikipedia.org/wiki/Flipped_(2010_film))
